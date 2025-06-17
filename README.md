@@ -2,6 +2,8 @@
 
 This project was developed as part of the **GE Aerospace Digital Technology Certification**, demonstrating my ability to build interactive user interfaces using Vue.js, HTML, and CSS.
 
+## Check out my Certification [here](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ay2tsYxaTif7Nt6z7/fjk7MFbQbedPXb3ws_ay2tsYxaTif7Nt6z7_mGKMFkWbvxWi5DcWt_1750195865618_completion_certificate.pdf)!
+
 ## 🚀 Project Description
 
 The application is a simple Vue.js-based tool that calculates the product of two numbers and displays the result interactively.
