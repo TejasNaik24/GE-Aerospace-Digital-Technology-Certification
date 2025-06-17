@@ -11,6 +11,7 @@ The application is a simple Vue.js-based tool that calculates the product of two
 ### 🔧 Technologies Used
 - **Vue 3 (Composition API)**
 - **HTML**
+- **JavaScript**
 - **Scoped CSS**
 
 ## 💡 Features
